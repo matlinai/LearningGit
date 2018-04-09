@@ -6,7 +6,7 @@ public class CubeScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		int lives = 3;
 	}
 
 	// Update is called once per frame

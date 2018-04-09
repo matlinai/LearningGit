@@ -8,4 +8,9 @@ public class CubeScript : MonoBehaviour {
 	void Start () {
 		
 	}
+
+    void Awake()
+    {
+        int num = 0;
+    }
 }

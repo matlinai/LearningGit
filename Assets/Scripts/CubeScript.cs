@@ -9,8 +9,18 @@ public class CubeScript : MonoBehaviour {
 		int lives = 3;
 	}
 
-	// Update is called once per frame
+    void Awake()
+    {
+        int num = 0;
+    }
+	
+    // Update is called once per frame
 	void Update () {
 		Debug.Log("Hello");
 	}
+
+    void LateUpdate()
+    {
+
+    }
 }

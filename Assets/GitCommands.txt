@@ -1,6 +1,4 @@
 
-blabla
-
 $ git init myProject1
 create a directory of that last parameter that we're passing on the command line
 

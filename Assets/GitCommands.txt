@@ -20,3 +20,5 @@ $ git merge
 
 $ git log
 $ git diff
+
+$ git stash

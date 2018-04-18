@@ -1,0 +1,24 @@
+
+blabla
+
+$ git init myProject1
+create a directory of that last parameter that we're passing on the command line
+
+$ cd myProject1
+change directory, situate yourself inside that project directory.
+
+$ git add
+signal that you want the change to participate in the next commit
+
+$ git commit -m"Logical change made to the file"
+record the state of the file at a given point in time
+
+$ git checkout nameOfBranch
+$ git commit -a -m"string"
+$ git push
+
+$ git pull
+$ git merge
+
+$ git log
+$ git diff
